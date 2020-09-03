@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Learn how to use markdown
+2. Dominate the world
+
+* Another list
+* list list!
+  * sublist!!
